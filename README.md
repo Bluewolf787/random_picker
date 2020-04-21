@@ -1,16 +1,12 @@
 # random_picker
 
-A new Flutter project.
+A simple random picker for your phone, built in flutter.
 
-## Getting Started
+## App
 
-This project is a starting point for a Flutter application.
+Enter a list of items separated by a comma (,).
+ 
+![Clean](images/Screenshot_20200421-235122.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Example](images/Screenshot_20200421-235133.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

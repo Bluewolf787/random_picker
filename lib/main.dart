@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
 
           new Text(
-            "Enter a list seperated by comma ,.",
+            "Enter a list separated by a comma (,).",
             textAlign: TextAlign.center,
           ),
 
@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
               controller: _inputController,
               decoration: InputDecoration(
                 border: InputBorder.none,
-                labelText: 'Enter text here...',
+                labelText: 'Enter your list here here...',
               ),
               cursorColor: const Color(0xFF673AB7),
               style: new TextStyle(
